@@ -1,0 +1,60 @@
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Properties.Resources.resources
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.GenerateResource.cache
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csprojAssemblyReference.cache
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Form1.resources
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe.config
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.dll
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.dll
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.pdb
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.pdb
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CopyComplete
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\Desktop\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe.config
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.dll
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.dll
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.pdb
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.pdb
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csprojAssemblyReference.cache
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Form1.resources
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Properties.Resources.resources
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.GenerateResource.cache
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CopyComplete
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\Desktop\20190731182126_123\123\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe.config
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.dll
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.dll
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.pdb
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.pdb
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csprojAssemblyReference.cache
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Form1.resources
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Properties.Resources.resources
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.GenerateResource.cache
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CopyComplete
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\Desktop\20190731182126_123\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe.config
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapePresentationLayer.pdb
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.dll
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.dll
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\BUS_Shape.pdb
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\bin\Debug\ShapeDataLayer.pdb
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Form1.resources
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.Properties.Resources.resources
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.GenerateResource.cache
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.csproj.CopyComplete
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.exe
+C:\Users\lyman\OneDrive\Máy tính\20190801174138_Manh_Long_Ly\Manh Long, Ly\ShapePresentationLayer\ShapePresentationLayer\obj\Debug\ShapePresentationLayer.pdb
